@@ -1,1 +1,4 @@
 *** Force To Terms And Conditions Changelog ***
+
+===2017-11-09===
+-Tested up to 4.9 and nothing changes just readme.txt
