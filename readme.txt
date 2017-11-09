@@ -1,6 +1,6 @@
 === Force To Terms & Conditions ===
 Contributors: anasbinmukim
-Donate link: http://rmweblab.com/
+Donate link: http://rmweblab.com/donate/
 Tags: Force Terms, Redirect, Terms and Condition
 Requires at least: 4.8
 Tested up to: 4.9
